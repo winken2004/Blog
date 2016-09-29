@@ -1,1 +1,1 @@
-# [Booting Linux on Microblaze under Kintex 7 FPGA board](booting+linux_under_kintex_7.md)
+# [Booting Linux on Microblaze under Kintex 7 FPGA board](booting_linux_under_kintex_7.md)
